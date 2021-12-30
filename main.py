@@ -1,4 +1,3 @@
-
 numbers = [9, 8, 7]
 new_numbers = [n + 1 for n in numbers]
 new_numbers = [n - 1 for n in numbers]
